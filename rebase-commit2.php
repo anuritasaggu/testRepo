@@ -3,4 +3,5 @@
     echo 'check conflict';
     echo 'new line added to create conflict';
     echo '1.1';
+    echo '1.2';
 ?>
